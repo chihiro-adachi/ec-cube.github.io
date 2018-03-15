@@ -45,9 +45,7 @@ permalink: /
 + プラグインサンプル
 
 ## 多言語化
-+ 言語の切り替え
-+ 言語ファイル
-+ trans関数
++ [多言語化仕様](/multilingualization_spec)
 
 ## Supporters
 
